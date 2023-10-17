@@ -1,0 +1,35 @@
+html {
+    font-family: Verdana, Tahoma, sans-serif;
+}
+
+h1 {
+    font-size: 36px;
+    text-align: center;
+}
+
+div {
+    float: left;
+    width: 33.33%;
+}
+
+.left {
+    width: 34.7%;
+}
+
+.recipes a {
+    display: block;
+    text-align: center;
+    width: 262px;
+    height: auto;
+    padding: 10px;
+    font-weight:bold;
+    color: white;
+    font-size: 20px;
+    background: rgb(36, 116, 236);
+    border-radius: 15px;
+    text-decoration: none;
+}
+
+.recipes a:hover {
+    background: rgb(145, 184, 241);
+}
